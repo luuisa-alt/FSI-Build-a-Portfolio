@@ -2,8 +2,11 @@ img {
     height: 300px
 }
 
-body {
+h1 {
     color:blueviolet;
     border-radius: 25px;
 }
 
+ol {
+    color:blue
+}
